@@ -48,6 +48,6 @@ This Python project renders a 3D holographic cube using OpenGL and lets you cont
 ## 🙌 Credits
 
 - Inspired by futuristic hand-controlled holographic UIs (like Iron Man).  
-- Built with ❤️ using Python and open-source libraries.
+- Built with using Python and open-source libraries.
 
 ---
